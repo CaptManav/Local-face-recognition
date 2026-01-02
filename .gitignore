@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+*.pyc
+
+# Environments
+venv/
+conda/
+.env/
+
+# Model artifacts and data
+artifacts/
+*.pkl
