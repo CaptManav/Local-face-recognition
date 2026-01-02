@@ -31,7 +31,7 @@ Identity is a local face recognition system that identifies known individuals fr
 pip install -r requirements.txt
 streamlit run app.py
 
-##Project Structure
+roject Structure
 ├── app.py          # Streamlit application
 ├── infer.py        # Inference logic
 ├── requirements.txt
