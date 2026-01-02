@@ -25,7 +25,9 @@ Identity is a local face recognition system that identifies known individuals fr
 - NumPy
 - OpenCV
 - Pillow
+  
 ## Demo
+Below are screenshots from the local Streamlit application showing image upload and identity prediction.
 
 ### Upload Interface
 ![Upload Interface](demo-upload.png)
