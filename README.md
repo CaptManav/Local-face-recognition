@@ -25,6 +25,13 @@ Identity is a local face recognition system that identifies known individuals fr
 - NumPy
 - OpenCV
 - Pillow
+## Demo
+
+### Upload Interface
+![Upload Interface](demo-upload.png)
+
+### Prediction Result
+![Prediction Result](demo-result.png)
 
 ## How to Run
 ```bash
@@ -36,4 +43,3 @@ roject Structure
 ├── infer.py        # Inference logic
 ├── requirements.txt
 └── artifacts/      # Trained model artifacts (excluded)
-
